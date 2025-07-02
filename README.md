@@ -20,7 +20,7 @@ Unity와 ML-Agents를 활용하여, 드론이 물류 배송 임무를 수행하�
 
 | 항목       | 내용                                 |
 | -------- | ---------------------------------- |
-| 개발 툴     | Unity 2022.3.5f1                   |
+| 개발 툴     | Unity 2022.3.34f1                   |
 | 학습 프레임워크 | Unity ML-Agents (v18)              |
 | 알고리즘     | Proximal Policy Optimization (PPO) |
 | 시뮬레이션 환경 | 자체 구축한 Unity 환경          |
